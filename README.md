@@ -39,7 +39,7 @@ In the **main.py** script, we demonstrate the creation of instances of **Savings
 
 3. Run the main script to simulate transactions:
    ```bash
-   python -m banking_system.main
+   python -m banking_system_oops.main
    ```
 
 ## Technologies Used
