@@ -34,7 +34,7 @@ In the **main.py** script, we demonstrate the creation of instances of **Savings
 
 2. Navigate to the project folder:
    ```bash
-   cd banking_system
+   cd banking_system_oops
    ```
 
 3. Run the main script to simulate transactions:
