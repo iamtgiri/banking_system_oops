@@ -1,0 +1,40 @@
+--------------------------------------------------------------
+                Transaction Log Entry
+--------------------------------------------------------------
+Transaction ID        : T001
+Account Holder        : Rajesh Kumar 
+Account Number        : SA12345
+Transaction Type      : deposit
+Amount                : 15000
+Transaction Date      : 2024-11-10 12:52:17
+--------------------------------------------------------------
+--------------------------------------------------------------
+                Transaction Log Entry
+--------------------------------------------------------------
+Transaction ID        : T002
+Account Holder        : Rajesh Kumar 
+Account Number        : SA12345
+Transaction Type      : withdraw
+Amount                : 10000
+Transaction Date      : 2024-11-10 12:52:17
+--------------------------------------------------------------
+--------------------------------------------------------------
+                Transaction Log Entry
+--------------------------------------------------------------
+Transaction ID        : T003
+Account Holder        : Amit Sharma 
+Account Number        : CA67890
+Transaction Type      : deposit
+Amount                : 5000
+Transaction Date      : 2024-11-10 12:52:17
+--------------------------------------------------------------
+--------------------------------------------------------------
+                Transaction Log Entry
+--------------------------------------------------------------
+Transaction ID        : T004
+Account Holder        : Amit Sharma 
+Account Number        : CA67890
+Transaction Type      : withdraw
+Amount                : 7000
+Transaction Date      : 2024-11-10 12:52:17
+--------------------------------------------------------------
